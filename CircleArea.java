@@ -5,8 +5,8 @@
  * Output: The area of the circle.
  *
  * Begun by: Dr. Adams, for CS 214, at Calvin College.
- * Completed by:
- * Date:
+ * Completed by: January 18th
+ * Date: January 18th
  **********************************************************/
 
 
@@ -43,3 +43,7 @@ public class CircleArea {
 
 } // class CircleArea
 
+//For input 1, the output is The area is 3.141592653589793 The area is 3.141593 The area is 3.141592653589793
+//For input 2, the output is The area is 12.566370614359172 The area is 12.566371 The area is 12.566370614359172
+//For input 2.5, the output is The area is 19.634954084936208 The area is 19.634954 The area is 19.634954084936208
+//For input 4.99999, the output is The area is 78.53950218079365 The area is 78.539502 The area is 78.539502180793650
